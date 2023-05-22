@@ -104,6 +104,21 @@
       margin: 0;
     }
   }
+
+  @media only screen and (max-width: 600px) {
+    #header, #personal {
+      flex-flow: column;
+      justify-content: center;
+    }
+
+    #header ul {
+      padding: 0;
+    }
+
+    #header, #main {
+      padding: 2em 2em;
+    }
+  }
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
