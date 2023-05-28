@@ -45,6 +45,7 @@ Senior Full Stack Software Developer with 10 years of experience in developing s
 
 - Lead the development of an in-house app using .NET and ASP.NET Core for the backend REST API and React.js for the front-end, following Agile principles for the organization of the team.
 - Guided the team to use the right technologies for the job.
+- Implemented Azure DevOps CI/CD pipelines to help increase the productivity of the team.
 
 ### Express.es
 #### IT Manager and Lead Software Developer
