@@ -33,7 +33,7 @@ Senior Full Stack Software Developer with 10 years of experience in developing s
 
 ## Skills:
 
-- **Frontend:** HTML 5, Javascript, CSS 3, Vue.js
+- **Frontend:** HTML 5, Javascript, CSS 3, Vue.js, React
 - **Backend:** Node.js, Golang, C++, C#, MySQL, SQL Server, PostgreSQL
 - **Others:** Linux, Git, Electron.js, Jamstack, Express.js, Microservices, Azure DevOps
 
