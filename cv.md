@@ -15,7 +15,7 @@ margin-bottom: 0cm
 
 ::::: {#title}
 # Manuel Arevalo
-### Sr. Full Stack Software Developer
+### Desarrollador Sr. Full Stack
 :::::
 
 :::::::
@@ -23,51 +23,75 @@ margin-bottom: 0cm
 - [location_on]{.material-icons} Apan, Hidalgo, Mexico
 - [email]{.material-icons} m.arevalo.aragon@gmail.com
 - [phone]{.material-icons} +52 555 289 08 90
-- [language]{.material-icons} [manuelarevalo.com](https://manuelarevalo.com/)
 ::::::::::
 
 :::::::::: {#main}
 
-## Professional Summary
-Senior Full Stack Software Developer with 10 years of experience in developing scalable and performant web applications using a variety of languages and frameworks. Proficient in both frontend and backend development, with expertise in technologies such as Vue.js, Node.js, Golang, and C#. Skilled in managing development teams and guiding them to use the right technologies for the job.
+Desarrollador Senior Full Stack con 10 años de experiencia creando
+aplicaciones web escalables utilizando diversos lenguajes y frameworks.
+Competente tanto en desarrollo de front-end como en back-end, con experiencia en
+tecnologías como Vue.js, Node.js, Golang, y C# entre otros.
+Calificado gestionando equipos y guiandolos a utilizar las herramientas
+correctas para un mejor trabajo.
 
-## Skills:
+## Experiencia Profesional
 
-- **Frontend:** HTML 5, Javascript, CSS 3, Vue.js, React
-- **Backend:** Node.js, Golang, C++, C#, MySQL, SQL Server, PostgreSQL
-- **Others:** Linux, Git, Electron.js, Jamstack, Express.js, Microservices, Azure DevOps
-
-## Professional Experience
-
-### Element Fleet Management
+### Element Fleet Management, Ciudad de México
 #### IT SME
 #### 2022 - 2023
 
-- Lead the development of an in-house app using .NET and ASP.NET Core for the backend REST API and React.js for the front-end, following Agile principles for the organization of the team.
-- Guided the team to use the right technologies for the job.
-- Implemented Azure DevOps CI/CD pipelines to help increase the productivity of the team.
+- Lider en desarrollo de aplicacion interna utilizando .Net y ASP.NET Core para el back-end basado en APIs REST, y React.js para el front-end, siguiendo principios Agile para la organización del equipo, consiguiendo manejar cientos de solicitudes de negocio de manera concurrente.
+- Guia de equipo integrado por 8 personas para utilizar las mejores tecnologías para realizar el trabajo, por ejemplo herramientas de OpenAPI, dashboards de Jira, e implementación de algoritmos de máquinas de estado. Implementación de pipelines en Azure DevOps CI/CD para ayudar a aumentar la productividad del equipo.
+- Manejo de software de manejo de projectos como Jira para aumentar la organización del equipo.
+- Manejo de servidores Windows y bases de datos PostgreSQL.
 
-### Express.es
-#### IT Manager and Lead Software Developer
+### Express.es, Apan, Hidalgo
+#### Director de IT y Desarrollador de Software Líder
 #### 2018 - 2021
 
-- Managed the development of the company's website frontend and backend using Vue.js and Golang, implementing a third-party payment framework and resulting in an increase in sales.
-- Created the company's internal system to manage employee and client data using Node.js, React, and MongoDB, creating a better work experience for the company.
-- Worked on the creation of custom software for customers of the company such as POS, ERP, and biometrics software, developed using different tools and languages such as Electron.js, C++, and Node.js.
+- Encargado del desarrollo del sitio web de la compañía, tanto front-end como
+  back-end, utilizando Vue.js y Golang, implementando pasarelas de pago de
+  terceros (PayU), resultando en un aumento de ventas del 20%.
+- Creación del sistema interno de la compañía para manejar los datos de clientes
+  y empleados, como ordenes de compra y planificación de pagos; utilizando
+  Node.js, React, y MongoDB, creando una mejor experiencia de trabajo para los
+  empleados.
+- Implementación directa de software personalizado para clientes de la empresa,
+  como Software de Punto de Venta y ERPs, desarrollados utilizando diferentes
+  herramientas y tecnologías como Electron.js, C++ y Node.js.
+- Desarrollo de software utilizando identificación biométrica para ERPs legacy,
+  utilizando el SDK de U.Are.U y creando interfaces entre C++ y Node.js
 
 ### Marea
-#### Freelance Full Stack Software Developer
+#### Desarrollado Full Stack Independiente
 #### 2017 - 2023
 
-- Worked with a variety of clients, mostly on a one-on-one basis with small businesses where I helped them build the product they needed to solve their needs, such as websites, APIs, or custom software.
-- Managed an in-house Linux server for a small magazine's CMS and developed their API to be used with their website and Android app.
-- Developed a small business's POS software with a simple UI to be used by non-computer-savvy people.
+- Trabajo con gran variedad de clientes, principalmente personalmente con
+  pequeños negocios donde ayudé a construir el producto que necesitaban para
+  cubrir sus necesidades, incluyendo sitios de e-commerce, blogs, desarrollo y
+  arquitectura de APIs, o software interno personalizado.
+- Manejo de servidores internos en Linux para el CMS de una revista y desarrollo
+  del API utilizada con su sitio web y aplicación Android.
+- Desarrollo del punto de venta para un negocio utilizando una interfaz amigable
+  para personal no tan versado en computación.
 
 ### Express.es
-#### Systems Administrator and Lead Software Developer
+#### Administrador de sistemas y Desarrollador de Software Líder
 #### 2013 - 2016
 
-- Developed and managed the business database using MySQL and a custom-built frontend, resulting in a better workflow experience for the whole business.
-- Managed the company's servers running on Linux.
+- Desarrollo y manejo de las bases de datos del negocio, utilizando MySQL y un
+  front-end personalizado, resultando en un mejor flujo de trabajo para la
+  empresa, incrementando el rendimiento de las ordenes de venta y simplificando
+  la interfaz para un mejor uso del software y mayor entendimiento de las reglas
+  de negocio.
+- Manejo de los servidores de la compañía basados en Linux.
+
+## Habilidades
+
+- **Frontend:** HTML 5, Javascript, CSS 3, Vue.js, React
+- **Backend:** Node.js, Golang, C++, C#, MySQL, SQL Server, PostgreSQL
+- **Otros:** Linux, Git, Electron.js, Jamstack, Express.js, Microservices, Azure DevOps
+- **Gestion:** Informes semanales, seguimiento de actividades, organización de equipos, Metodología Agile, Jira
+- **Idiomas:** Inglés B2
 
 ::::::::::
